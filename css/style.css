@@ -13,4 +13,20 @@ div.developer {
     padding: 6px;
     text-align: center;
   }
-  
+  div.list {
+    width: 200px;
+    display: block;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 6px;
+    text-align: center;
+  }
+
+  div.food{
+    width: 200px;
+    display: block;
+    border: 2px solid green;
+    border-radius: 5px;
+    padding: 6px;
+    text-align: center;
+}
